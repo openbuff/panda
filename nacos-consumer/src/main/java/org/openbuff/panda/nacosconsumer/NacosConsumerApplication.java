@@ -1,4 +1,4 @@
-package org.openbuff.nacosconsumer;
+package org.openbuff.panda.nacosconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
