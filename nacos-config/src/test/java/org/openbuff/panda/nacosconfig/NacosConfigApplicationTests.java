@@ -1,4 +1,4 @@
-package org.openbuff.nacosconfig;
+package org.openbuff.panda.nacosconfig;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
